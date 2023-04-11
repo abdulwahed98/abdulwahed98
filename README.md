@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-As a data scientist, I have a strong foundation in statistical analysis, programming, and data manipulation, machine learning. My primary responsibility is to collect, organize, analyse, and interpret large volumes of data to extract valuable insights and inform decision-making.
+As a data scientist, I have a strong foundation in statistical analysis, programming, data manipulation and machine learning. My primary responsibility is to collect, organize, analyse, and interpret large volumes of data to extract valuable insights and inform decision-making.
 
 I work on various projects such as predictive modelling, data visualization, and data mining, and my analytical mindset and programming skills, particularly in Python and R, are essential to my success.
 
