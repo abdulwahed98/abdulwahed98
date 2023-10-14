@@ -1,20 +1,17 @@
-## Hey 👋, I'm Mohammad Abdul Wahed!  
+## Hey 👋, I'm Wahed!  
   
 
 <a href="https://github.com/abdulwahed98" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/abdulwahedmohammad" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
 
 
 
-### Glad to see you here!  
-As a data scientist, I have a strong foundation in statistical analysis, programming, data manipulation and machine learning. My primary responsibility is to collect, organize, analyse, and interpret large volumes of data to extract valuable insights and inform decision-making.
+### Welcome to my GitHub profile!  
+I am passionate about leveraging the power of Hugging Face to create state-of-the-art language models (LLMs). With my expertise in natural language processing, I develop advanced and innovative LLMs that facilitate various applications, from sentiment analysis to language generation. Additionally, I am also proficient in developing no-code SaaS (Software as a Service) products that empower individuals and businesses to seamlessly build and deploy software solutions without coding. Browse through my repositories to explore my diverse projects and collaborations. Let's connect and bring cutting-edge technology to life!
 
-I work on various projects such as predictive modelling, data visualization, and data mining, and my analytical mindset and programming skills, particularly in Python and R, are essential to my success.
+As a data scientist, I have a strong foundation in statistical analysis, programming, data manipulation and machine learning. My primary responsibility is to collect, organize, analyse, and interpret large volumes of data to extract valuable insights and inform decision-making.
 
 I am dedicated to continually improving my skills and staying up-to-date with the latest technologies and methodologies in data science. I am excited to work with clients to deliver high-quality data-driven solutions and build my reputation as a trusted and reliable data scientist.  
   
@@ -25,13 +22,13 @@ I am dedicated to continually improving my skills and staying up-to-date with th
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently a Post Graduate student at Indian Statistical Institute (ISI)  
+- 🔭 I’m currently working as Prompt Engineer at Soul AI  
   
 
-- 🌱 I’m currently learning MLOps, AWS  
+- 🌱 I completed my Post Graduation at Indian Statistical Institute (ISI), Kolkata  
   
 
-- ❓ Ask me about anything related to machine learning, natural language processing (NLP)  
+- ❓ Ask me about anything related to machine learning, natural language processing (NLP), LLMs, Generative AI  
   
 
 - ⚡ You can reach out to me at abdulwahed.m98@gmail.com  
@@ -39,9 +36,6 @@ I am dedicated to continually improving my skills and staying up-to-date with th
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
@@ -53,9 +47,11 @@ I am dedicated to continually improving my skills and staying up-to-date with th
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
 </div>  
 
@@ -88,4 +84,3 @@ I am dedicated to continually improving my skills and staying up-to-date with th
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
