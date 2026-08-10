@@ -8,13 +8,7 @@
 
 
 
-### Welcome to my GitHub profile!  
-I am passionate about leveraging the power of Hugging Face to create state-of-the-art language models (LLMs). With my expertise in natural language processing, I develop advanced and innovative LLMs that facilitate various applications, from sentiment analysis to language generation. Additionally, I am also proficient in developing no-code SaaS (Software as a Service) products that empower individuals and businesses to seamlessly build and deploy software solutions without coding. Browse through my repositories to explore my diverse projects and collaborations. Let's connect and bring cutting-edge technology to life!
 
-As a data scientist, I have a strong foundation in statistical analysis, programming, data manipulation and machine learning. My primary responsibility is to collect, organize, analyse, and interpret large volumes of data to extract valuable insights and inform decision-making.
-
-I am dedicated to continually improving my skills and staying up-to-date with the latest technologies and methodologies in data science. I am excited to work with clients to deliver high-quality data-driven solutions and build my reputation as a trusted and reliable data scientist.  
-  
 
 <br/>  
 
@@ -22,13 +16,10 @@ I am dedicated to continually improving my skills and staying up-to-date with th
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as Prompt Engineer at Soul AI  
+- 🔭 I’m currently working as Prompt Engineer at Meridial
   
 
 - 🌱 I completed my Post Graduation at Indian Statistical Institute (ISI), Kolkata  
-  
-
-- ❓ Ask me about anything related to machine learning, natural language processing (NLP), LLMs, Generative AI  
   
 
 - ⚡ You can reach out to me at abdulwahed.m98@gmail.com  
